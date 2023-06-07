@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-20T21:55:38 IST" name="Default suite" finished-at="2023-04-20T21:56:15 IST" duration-ms="37047">
+    <groups>
+    </groups>
+    <test started-at="2023-04-20T21:55:38 IST" name="Default test" finished-at="2023-04-20T21:56:15 IST" duration-ms="37047">
+      <class name="com.qa.countable.tests.DashboardTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.countable.tests.DashboardTest@7526515b]" started-at="2023-04-20T21:55:38 IST" name="setup" finished-at="2023-04-20T21:56:00 IST" duration-ms="22042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomeTitle()[pri:1, instance:com.qa.countable.tests.DashboardTest@7526515b]" started-at="2023-04-20T21:56:00 IST" name="verifyHomeTitle" finished-at="2023-04-20T21:56:01 IST" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomeTitle -->
+        <test-method signature="HomepageHeader()[pri:2, instance:com.qa.countable.tests.DashboardTest@7526515b]" started-at="2023-04-20T21:56:01 IST" name="HomepageHeader" finished-at="2023-04-20T21:56:02 IST" duration-ms="563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageHeader -->
+        <test-method signature="DashboardSearch()[pri:3, instance:com.qa.countable.tests.DashboardTest@7526515b]" started-at="2023-04-20T21:56:02 IST" name="DashboardSearch" finished-at="2023-04-20T21:56:07 IST" duration-ms="5222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DashboardSearch -->
+        <test-method signature="ViewTeam()[pri:4, instance:com.qa.countable.tests.DashboardTest@7526515b]" started-at="2023-04-20T21:56:07 IST" name="ViewTeam" finished-at="2023-04-20T21:56:10 IST" duration-ms="3272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ViewTeam -->
+        <test-method signature="BackDashboard()[pri:5, instance:com.qa.countable.tests.DashboardTest@7526515b]" started-at="2023-04-20T21:56:10 IST" name="BackDashboard" finished-at="2023-04-20T21:56:15 IST" duration-ms="5105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BackDashboard -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.countable.tests.DashboardTest@7526515b]" started-at="2023-04-20T21:56:15 IST" name="teardown" finished-at="2023-04-20T21:56:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.countable.tests.DashboardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
